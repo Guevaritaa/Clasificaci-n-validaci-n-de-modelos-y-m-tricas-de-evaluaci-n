@@ -1,2 +1,2 @@
-# Clasificaci-n-validaci-n-de-modelos-y-m-tricas-de-evaluaci-n
-Clasificación validación de modelos y métricas de evaluación
+# 2162-clasificacion-validacion-de-modelos-y-metricas
+Este repositorio corresponde al entrenamiento de Clasificación: Validación de Modelos y métricas de evaluación de Alura Latam.
